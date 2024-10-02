@@ -1,0 +1,3 @@
+.youtube-embed-container figure[data-rx-type="embed"] {
+    position: unset;
+}
